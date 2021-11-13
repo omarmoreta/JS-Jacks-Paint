@@ -1,33 +1,30 @@
- 
- .dim{
-    opacity: 0.1555;
-  }
+.dim {
+  opacity: 0.1555;
+}
 
-  .priceDiv {
-    border: 1px solid black;
-    background-color: lightblue;
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
-  }
+.priceDiv {
+  border: 1px solid black;
+  background-color: lightblue;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
 
-  .floatRight {
-    float:right;
-    padding-right: 500px;
-    padding-top: 150px;
-  }
+.floatRight {
+  float: right;
+  padding-right: 500px;
+  padding-top: 150px;
+}
 
-  .floatLeft {
-    float: left
-  }
+.floatLeft {
+  float: left;
+}
 
-  .price{
-    font: 140px Arial, sans-serif; 
-  }
+.price {
+  font: 140px Arial, sans-serif;
+}
 
-  .ppgLabel{
-    font: 50px Arial, sans-serif; 
-  }
-
-  
+.ppgLabel {
+  font: 50px Arial, sans-serif;
+}
